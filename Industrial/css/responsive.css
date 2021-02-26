@@ -410,6 +410,11 @@
         float: left;
     }
 
+    .contactareamainbox .email a {
+        font-size: 14px;
+        line-height: 1.5;
+    }
+
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
@@ -918,6 +923,10 @@
 
     .listright {
         float: right;
+    }
+
+    .contactareamainbox .email a {
+        font-size: inherit;
     }
 
 }
